@@ -1,0 +1,31 @@
+{
+  "twitter": {
+    "api_key": "U0mC6F2BghsJ1T8N60lSjaqop",
+    "api_secret": "zvH7eOCtOQEXJXbAERSDvbCxx93KgXAeFx4yWvJlBjtJFlSU2q",
+    "client_id": "azlTamlTdW5TNEp5UUlCOEhhVko6MTpjaQ",
+    "client_secret": "FP9VMgt2v-qpDufU-tBFIW9MCqCb53HnMW3KntijfT4XgG5Uik",
+    "access_token": "1527236023310229504-hWKtnx45X0JohhxQv0T1Qkyo3armiC",
+    "access_secret": "1xsK1xujEUsv44gdNNWQLdxCUIFnYwkl4e9eLaVICvDbJ",
+    "bearer_token": "AAAAAAAAAAAAAAAAAAAAAO4OcwEAAAAAbDtUP4F6M8i48of16oYMoBsBOl8%3DEAWgpADFUcQ2BGcpruFhF5Db5zsIlMk4trHS1bLnNuoU9mHoNh"
+  },
+  "facebook": {
+    "api_key": "",
+    "api_secret": "",
+    "email": "projectgroup765@gmail.com",
+    "password": "noot@123"
+  },
+  "youtube": {
+    "api_key": "",
+    "api_secret": ""
+  },
+  "instagram": {
+    "api_key": "",
+    "api_secret": "",
+    "username": "group_project7",
+    "password": "noot@123"
+  },
+  "tiktok": {
+    "api_key": "",
+    "api_secret": ""
+  }
+}

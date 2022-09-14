@@ -1,0 +1,25 @@
+company_info:
+  name: 'Company Name' # Name of the client
+  website: 'https://www.company.com'
+  time_period:
+    start: '2019-01-01'
+    end: '2019-12-31'
+  competitors:
+    - name: 'Bulk'
+      website: 'https://www.bulk.com/uk/'
+      insta: 'bulk'
+      twitter: 'BulkOfficial'
+      fb: 'bulk'
+    - name: 'Neat Nutrition'
+      website: 'https://www.neat-nutrition.com/'
+      insta: 'neat_nutrition'
+      twitter: 'neat_nutrition'
+      fb: 'neatnutrition'
+
+  influencers: # No influencer will be present in multiple platforms.
+    - name: 'Joe Wicks'
+      insta: 'thebodycoach'
+    - name: 'Aaron Chalmers'
+      insta: 'aaroncgshore'
+    - name: 'Lucy Mecklenburgh'
+      insta: 'lucymeck1'
