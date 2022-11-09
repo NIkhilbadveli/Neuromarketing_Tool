@@ -9,8 +9,8 @@ This will be the main repo of all of our code for the Group Project. It will inc
 ### Diagrams explaining various modules
 ![data fetching](https://user-images.githubusercontent.com/24986098/200831137-28d19dfc-dbe0-4301-9f45-45e8622c3efc.jpg)
 ![data integrator](https://user-images.githubusercontent.com/24986098/200831128-b9499140-b005-45f1-a6bf-94f5ea6cc3b7.jpg)
-![Similarity analysis](https://user-images.githubusercontent.com/24986098/200832305-ead1e457-7c6a-4009-88c8-8f0f17168a4f.PNG)
-![Visual Module](https://user-images.githubusercontent.com/24986098/200832359-238cf97e-0840-47b9-a476-acbadcc0f4d9.PNG)
+![similarity](https://user-images.githubusercontent.com/24986098/200832539-51c8adb4-7374-4d09-9416-2f47c8f0f212.jpg)
+![visualization](https://user-images.githubusercontent.com/24986098/200832547-116eb917-f7b0-40d5-bc27-fcaf2a540e9d.jpg)
 
 ### Competitor - Competitor similarity. Used Sentence transformers model and Cosine similarity.
 ![comcom similar](https://user-images.githubusercontent.com/24986098/200831029-fd6c0eec-3973-4b79-91cc-c0faabb38c89.PNG)
