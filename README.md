@@ -8,7 +8,6 @@ This will be the main repo of all of our code for the Group Project. It will inc
 
 ### Diagrams explaining various modules
 ![data fetching](https://user-images.githubusercontent.com/24986098/200831137-28d19dfc-dbe0-4301-9f45-45e8622c3efc.jpg)
-![Data Cleaner](https://user-images.githubusercontent.com/24986098/200831133-0f7c50a7-5526-4287-9c56-a611fc271f7d.PNG)
 ![data integrator](https://user-images.githubusercontent.com/24986098/200831128-b9499140-b005-45f1-a6bf-94f5ea6cc3b7.jpg)
 
 ### Competitor - Competitor similarity. Used Sentence transformers model and Cosine similarity.
